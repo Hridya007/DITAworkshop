@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_profile_attributes_in_dita">
+    <title>Create and Edit Profiling Attributes in DITA</title>
+    <taskbody>
+        <context>
+            <p>To create or edit profiling attributes for filtering DITA content, follow the
+                steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select <menucascade>
+                        <uicontrol>Options</uicontrol>
+                        <uicontrol>Preferences</uicontrol>
+                    </menucascade>.</cmd>
+                <stepresult>The <b>Preferences</b> window opens.</stepresult>
+            </step>
+            <step>
+                <cmd>Select <menucascade>
+                        <uicontrol>Editor</uicontrol>
+                        <uicontrol>Edit Modes</uicontrol>
+                        <uicontrol>Author</uicontrol>
+                        <uicontrol>Profiling/Conditional Text</uicontrol>
+                        <uicontrol>Attributes and Condition Sets</uicontrol>
+                    </menucascade>.</cmd>
+            </step>
+            <step>
+                <cmd>Create or edit the attributes in DITA.</cmd>
+                <choicetable relcolwidth="1* 1*" id="choicetable_gjs_vgt_zyb">
+                    <chhead>
+                        <choptionhd>Option</choptionhd>
+                        <chdeschd>Description</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Edit</choption>
+                        <chdesc>
+                            <ul id="ul_i2r_f3t_zyb">
+                                <li>Select the profiling attribute you want to edit.</li>
+                                <li>Click the <uicontrol>Edit</uicontrol> button.</li>
+                                <li>Make the changes you want and click the
+                                        <uicontrol>Apply</uicontrol> button.</li>
+                                <li>Click the <uicontrol>OK</uicontrol> button.</li>
+                            </ul>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Create</choption>
+                        <chdesc>
+                            <ul id="ul_ijz_1lt_zyb">
+                                <li>In the Profiling Attributes section, click the
+                                        <uicontrol>New</uicontrol> button.</li>
+                                <li>Enter <b>DITA</b> in <uicontrol>Document Type</uicontrol>.</li>
+                                <li>Enter the attribute details and click the
+                                        <uicontrol>Apply</uicontrol> button.</li>
+                                <li>Click the <uicontrol>OK</uicontrol> button.</li>
+                            </ul>
+                        </chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+        </steps>
+    </taskbody>
+</task>

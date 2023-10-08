@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="lists">
+    <title>Lists</title>
+    <body>
+        <p>Types of Lists</p>
+        <ul id="ul_k5g_gdk_yyb">
+            <li>Simple list</li>
+            <li>Bulletted (ordered) list</li>
+            <li>Numbered (unordered) list</li>
+            <li>Definition list</li>
+            <li>Choice list</li>
+            <li>Parameter list</li>
+        </ul>
+    </body>
+    <topic id="topic_zw5_b2k_yyb">
+        <title>Simple List</title>
+        <body>
+            <p>Simple list:</p>
+            <sl id="sl_y3t_1gk_yyb">
+                <sli>Apple</sli>
+                <sli>Banana</sli>
+                <sli>Chikku</sli>
+                <sli>Dragon fruit</sli>
+            </sl>
+        </body>
+    </topic>
+    <topic id="topic_gd3_dgk_yyb">
+        <title>Bulletted List</title>
+        <body>
+            <p>Bulletted list:</p>
+            <ul id="sl_up1_tgk_yyb">
+                <li>Apple<ul id="ul_xdj_vhk_yyb">
+                        <li>Pie</li>
+                        <li>Cake</li>
+                        <li>Juice</li>
+                    </ul></li>
+                <li>Banana</li>
+                <li>Chikku</li>
+            </ul>
+        </body>
+    </topic>
+    <topic id="topic_ivm_zhk_yyb">
+        <title>Numbered List</title>
+        <body>
+            <p>Numbered list:</p>
+            <ol id="ol_frr_d3k_yyb">
+                <li>Apple<ol id="ol_apw_v3k_yyb">
+                        <li>Cake<ul id="ul_imd_2jk_yyb">
+                                <li>Vegan (eggless)</li>
+                                <li>Non-veg (contains egg)</li>
+                            </ul></li>
+                        <li>Pie</li>
+                        <li>Juice</li>
+                    </ol></li>
+                <li>Banana</li>
+                <li>Chikku</li>
+            </ol>
+        </body>
+    </topic>
+    <topic id="topic_ucc_gjk_yyb">
+        <title>Definition List</title>
+        <body>
+            <p>Definition list:</p>
+            <dl id="dl_ycj_mjk_yyb">
+                <dlentry>
+                    <dt><image placement="inline" href="New.png" id="image_vtd_qjk_yyb"/>New</dt>
+                    <dd>Click to create a new file template.</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_hdx_jkk_yyb">
+                <dlentry>
+                    <dt><image placement="inline" href="Save.png" id="image_iqn_pkk_yyb"/>Save</dt>
+                    <dd>Click to save the file.</dd>
+                </dlentry>
+            </dl>
+        </body>
+    </topic>
+    <topic id="topic_y5w_ykk_yyb">
+        <title>Parameter List</title>
+        <body>
+            <p>Parameter list:</p>
+            <codeblock id="codeblock_vw4_2lk_yyb">callHelp,hFileName,contentId</codeblock>
+            <p>Where <parml id="parml_vlw_bmk_yyb">
+                    <plentry>
+                        <pt>hFileName</pt>
+                        <pd>is a relative path to the file.</pd>
+                    </plentry>
+                    <plentry>
+                        <pt>contentId</pt>
+                        <pd>the ID of the topic to display.</pd>
+                    </plentry>
+                </parml></p>
+        </body>
+    </topic>
+</topic>

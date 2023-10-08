@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="annotated_xml_file">
+    <title>Annotated XML File</title>
+    <refbody>
+        <section id="section_bdy_xnp_vyb"><p>The following figure shows a simple, annotated XML
+                file.</p><image href="xml.png" id="image_xpy_znp_vyb"/></section>
+    </refbody>
+</reference>

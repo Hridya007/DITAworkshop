@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Module 1</title>
+    <topicref href="introduction_to_dita.dita">
+        <topicref href="what_is_dita.dita"/>
+        <topicref href="business_advantages_of_dita.dita">
+            <topicref href="Goals.dita"/>
+        </topicref>
+        <topicref href="xml_basics.dita">
+            <topicref href="annotated_xml_file.dita"/>
+            <topicref href="xml_object_model.dita"/>
+            <topicref href="tree_structure_model.dita"/>
+        </topicref>
+        <topicref href="dita_terminology.dita">
+            <topicref href="basic_terminology.dita"/>
+            <topicref href="specialization_terminology.dita"/>
+            <topicref href="dita_modules.dita"/>
+            <topicref href="linking_and_addressing_terms.dita"/>
+            <topicref href="terminology_related_to_keys.dita"/>
+            <topicref href="map_terms.dita"/>
+        </topicref>
+        <topicref href="dita_ot_and_tools.dita">
+            <topicref href="output_formats.dita"/>
+        </topicref>
+        <topicref href="content_organization_in_dita.dita">
+            <topicref href="tree_structure_model.dita"/>
+        </topicref>
+        <topicref href="dita_files_and_their_outputs.dita"/>
+        <topicref href="writing_in_dita.dita"/>
+    </topicref>
+    <reltable>
+        <title>Reltable for Module 1</title>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+            <relcolspec type="reference"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="what_is_dita.dita"/>
+                <topicref href="dita_terminology.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="what_is_dita.dita"/>
+                <topicref href="business_advantages_of_dita.dita"/>
+                <topicref href="dita_ot_and_tools.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>

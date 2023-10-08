@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="coderef_example">
+    <title>Coderef Example</title>
+    <conbody>
+        <p>The following is an example of <codeph>coderef</codeph> element in DITA</p>
+        <example id="example_vys_tkn_yyb">
+            <title>&lt;coderef> usage</title>
+            <codeblock id="codeblock_c1b_ykn_yyb"><coderef href="Helloworld.cpp#line-range(4,8)"/></codeblock>
+        </example>
+    </conbody>
+</concept>

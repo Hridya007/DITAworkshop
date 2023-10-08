@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="xml_basics">
+    <title>XML Basics</title>
+    <conbody>
+        <p>XML is a W3C-recommended general-purpose markup language that supports a wide variety of
+            applications, and is extensible. XML is a simplified subset of Standard Generalized
+            Markup Language (SGML). DITA is a "dialect" of XML.</p>
+    </conbody>
+</concept>

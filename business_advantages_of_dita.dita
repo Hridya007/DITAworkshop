@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="business_advantages_of_dita">
+    <title>Business Advantages of DITA</title>
+    <conbody>
+        <p>While DITA does not require the use of any particular writing practice, the DITA
+            architecture is designed to support authoring, managing, and processing of content that
+            is designed to be reused. Although DITA provides significant value even when reuse is
+            not a primary requirement, the full value of DITA is realized when content is authored
+            with reuse in mind. To develop topic-based information means creating units of
+            standalone information that are meaningful with little or no surrounding context.</p>
+        <p>Topics written for reuse should be small enough to provide opportunities for reuse but
+            large enough to be coherently authored and read. When each topic is written to address a
+            single subject, authors can organize a set of topics logically and achieve an acceptable
+            narrative content flow.</p>
+    </conbody>
+</concept>

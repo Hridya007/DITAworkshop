@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="choice_list_example">
+    <title>Choice List Example</title>
+    <shortdesc>When writing task topics, the choice list structure can be used to describe
+        alternative step choices.</shortdesc>
+    <taskbody>
+        <context>In this document, you will learn to add digital signature on a PDF form.</context>
+        <steps>
+            <step>
+                <cmd>Open the PDF document or form in Acrobat or Acrobat Reader.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Fill &amp; Sign</uicontrol> in the right pane.</cmd>
+            </step>
+            <step>
+                <cmd>Click the Sign icon <image placement="inline"
+                        href="Choice%20List%20Example.png" id="image_zwc_sqp_yyb"/> in the
+                        <uicontrol>Fill &amp; Sign</uicontrol> toolbar and add your signature.</cmd>
+                <choices id="choices_mkm_xqp_yyb">
+                    <choice>Add Signature</choice>
+                    <choice>Add Initials</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd> Add your signature in <uicontrol>Signature or Initials</uicontrol>
+                    panel.</cmd>
+                <choices id="choices_u1b_vsp_yyb">
+                    <choice><b>Type</b>: Type your name in the field. You can choose from a small
+                        selection of signature styles.</choice>
+                    <choice><b>Draw</b>: Draw your signature in the field.</choice>
+                    <choice><b>Image</b>: Browse and select an image of your signature.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Select the <b>Save Signature</b> check box.</cmd>
+                <stepresult>The added signature is saved for reuse.</stepresult>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Apply</uicontrol>, and then click at the place in the PDF
+                    where you want to place the signature or initial.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="specialization_terminology">
+    <title>Specialization Terminology</title>
+    <refbody>
+        <section id="section_hvq_gqp_vyb">
+            <p>The following terminology is used to discuss DITA specialization:<ol
+                    id="ol_y5b_2fy_wyb">
+                    <li>base type</li>
+                    <li>extension element</li>
+                    <li>generalization</li>
+                    <li>specialization</li>
+                    <li>specialization hierarchy</li>
+                    <li>structural type</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>

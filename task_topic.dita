@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="task_topic">
+    <title>Task Topic</title>
+    <conbody>
+        <p>Task topics are used to document the steps of a particular task or procedure, or to
+            document the stages within a high level process. Task topics are the building blocks for
+            task-oriented documentation. Task topics are more strictly structured than concept and
+            reference topics. Task topics address the question of how to?. The root element of a
+            task topic is task.</p>
+    </conbody>
+</concept>

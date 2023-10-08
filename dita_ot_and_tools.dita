@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dita_ot_and_tools">
+    <title>DITA OT and Tools</title>
+    <conbody>
+        <section id="section_ulb_hv1_vyb">
+            <title>DITA Open Toolkit 1.8</title>
+            <p>This document describes the DITA Open Toolkit project—what the project is, and how to
+                use the site.</p>
+        </section>
+        <section id="section_vlb_hv1_vyb">
+            <title>What is the DITA Open Toolkit?</title>
+            <p>The DITA Open Toolkit (OT) is a set of Java-based, open source tools that provide
+                processing for DITA maps and topic content. The DITA Open Toolkit is an independent,
+                open source implementation of the DITA standard.</p>
+        </section>
+    </conbody>
+</concept>

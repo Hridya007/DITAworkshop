@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="dita_modules">
+    <title>DITA Modules</title>
+    <refbody>
+        <section id="section_all_mqp_vyb">
+            <p>The following terminology is used to discuss DITA modules:<ol id="ol_akp_mfy_wyb">
+                    <li>attribute domain module</li>
+                    <li>constraint module</li>
+                    <li>domain module</li>
+                    <li>element domain module</li>
+                    <li>structural module</li>
+                    <li>vocabulary module</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>

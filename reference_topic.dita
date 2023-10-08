@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="reference_topic">
+    <title>Reference Topic</title>
+    <conbody>
+        <p>Reference topics are used to describe features of sets of things, such as codes, types
+            and commands. Information that normally demands tabular presentation probably belongs in
+            reference topics. Catalogues, directories and bibliographies are good examples of
+            reference topic information. Reference topics are often organised into tables. Reference
+            topics contains facts without explanation. The root element of a reference topic is
+            reference.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="terminology_related_to_keys">
+    <title>Terminology Related to Keys</title>
+    <refbody>
+        <section id="section_jhy_xqp_vyb">
+            <p>The following terminology is used to discuss keys:<ol id="ol_nbm_zfy_wyb">
+                    <li>resource</li>
+                    <li>key</li>
+                    <li>key definition</li>
+                    <li>key reference</li>
+                    <li>key space</li>
+                    <li>effective key definition</li>
+                    <li>key scope</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>

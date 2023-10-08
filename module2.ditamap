@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Module 2</title>
+    <topicref href="dita_information_types.dita">
+        <topicref href="identifying_the_information_types.dita"/>
+        <topicref href="creating_a_dita_topic.dita"/>
+        <topicref href="concept_topic.dita"/>
+        <topicref href="task_topic.dita"/>
+        <topicref href="reference_topic.dita"/>
+    </topicref>
+    <topicref href="choice_list_example.dita"/>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="output_formats">
+    <title>Output Formats</title>
+    <refbody>
+        <section id="section_wq2_nsp_vyb">
+            <p>Key output formats for the DITA toolkit include:</p>
+            <ul id="ul_pmk_rsp_vyb">
+                <li>XHTML</li>
+                <li>PDF (formerly known as PDF2)</li>
+                <li>ODT (Open Document Format)</li>
+                <li>Eclipse Help</li>
+                <li>TocJS (XHTML with a JavaScript frameset)</li>
+                <li>HTML Help</li>
+                <li>Java Help</li>
+                <li>Eclipse Content (normalized DITA plus Eclipse project files)</li>
+                <li>Word RTF (with some limitations)</li>
+                <li>Docbook</li>
+                <li>Troff</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

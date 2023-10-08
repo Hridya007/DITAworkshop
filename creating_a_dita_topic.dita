@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_dita_topic">
+    <title>Creating a DITA Topic</title>
+    <taskbody>
+        <prereq id="prereq_cnk_hb4_wyb">Before creating a task topic, you must install oXygen XML
+            Author. You can download a trial version of the oXygen at <xref
+                href="https://www.oxygenxml.com/xml_author/download_oxygenxml_author.html"
+                format="html" scope="external">download</xref></prereq>
+        <context>There are three DITA information types: concept, task and reference. The process to
+            create the DITA topics are similar.</context>
+        <steps>
+            <step>
+                <cmd>Select <menucascade>
+                        <uicontrol>File</uicontrol>
+                        <uicontrol>New</uicontrol>
+                    </menucascade>. Alternatively, click the <image placement="inline"
+                        href="New.png" id="image_x45_vng_xyb"/> icon.</cmd>
+                <stepresult>The <uicontrol>New</uicontrol> dialog appears.</stepresult>
+            </step>
+            <step>
+                <cmd>In the <uicontrol>Type filter text</uicontrol> text box, type the topic you
+                    want to create.</cmd>
+                <choicetable frame="all" id="choicetable_vmp_2bd_yyb">
+                    <chhead>
+                        <choptionhd>Topic</choptionhd>
+                        <chdeschd>Description</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>Concept</choption>
+                        <chdesc>Type <userinput>concept</userinput>.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Task</choption>
+                        <chdesc>Type <userinput>task</userinput>.</chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>Reference</choption>
+                        <chdesc>Type <userinput>reference</userinput>.</chdesc>
+                    </chrow>
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Provide a title in the <uicontrol>Title</uicontrol> text box.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Create</uicontrol>.</cmd>
+            </step>
+        </steps>
+        <result id="result_ynt_4cd_yyb">You have successfully created a topic.</result>
+        <postreq id="postreq_xdx_vcd_yyb">For more information, see <xref href="concept_topic.dita"
+            />, <xref href="task_topic.dita"/>, and <xref href="reference_topic.dita"/>.</postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="business_goals">
+    <title>Goals</title>
+    <refbody>
+        <section id="section_xhl_plp_vyb">
+            <p>By organizing content into topics that are written to be reusable, authors can
+                achieve several goals:</p>
+            <ul id="ul_hwx_gz1_vyb">
+                <li>Topic-oriented information design ensures that each unit of information can be
+                    read independently.</li>
+                <li>Content can be organized differently for online and print delivery. </li>
+                <li>Content can be reused in different collections.  Topics permit authors to
+                    refactor information as needed, including only the topics that apply to each
+                    unique scenario.</li>
+                <li>Content is more manageable in topic form whether managed as individual files in
+                    a traditional file system or as objects in a content management system.</li>
+                <li>Content authored in topics can be translated and updated more efficiently and
+                    less expensively.</li>
+                <li>Content authored in topics can be filtered more efficiently.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

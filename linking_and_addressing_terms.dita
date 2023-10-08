@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="linking_and_addressing_terms">
+    <title>Linking and Addressing Terms</title>
+    <refbody>
+        <section id="section_stm_sqp_vyb">
+            <p>The following terminology is used to discuss linking and addressing terms:<ol
+                    id="ol_csr_vfy_wyb">
+                    <li>referenced element</li>
+                    <li>referencing element</li>
+                    <li>addressing attribute</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dita_terminology">
+    <title>DITA Terminology</title>
+    <conbody>
+        <p>The DITA specification uses specific terms to define the components of the DITA
+            standard.</p>
+    </conbody>
+</concept>

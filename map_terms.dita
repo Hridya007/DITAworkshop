@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="map_terms">
+    <title>Map Terms</title>
+    <refbody>
+        <section id="section_xb1_drp_vyb">
+            <p>The following terminology is used to discuss map:<ol id="ol_ixm_mgy_wyb">
+                    <li>root map</li>
+                    <li>submap</li>
+                    <li>peer map</li>
+                    <li>map branch</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="tree_structure_model">
+    <title>Tree Structure Model</title>
+    <refbody>
+        <section id="section_jpt_j4p_vyb"><p>The following figure shows a simplified tree structure
+                model for a typical DITA project.</p><image href="tree_structure.png"
+                id="image_ebj_l4p_vyb"/></section>
+    </refbody>
+</reference>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="content_organization_in_dita">
+    <title>Content Organization in DITA</title>
+    <conbody>
+        <p>DITA map is like a folder in which you can include the topics. Within the topics, you can
+            add URLs or images. </p>
+    </conbody>
+</concept>

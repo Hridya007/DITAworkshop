@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_to_dita">
+    <title>Introduction to DITA</title>
+    <conbody>
+        <p>The <b>Darwin Information Typing Architecture</b> (<b>DITA</b>) specification defines a
+            set of document types for authoring and organizing topic-oriented information, as well
+            as a set of mechanisms for combining, extending, and constraining document types.</p>
+        <p>The name derives from the following components:</p>
+        <ul id="ul_crp_13p_vyb">
+            <li>Darwin: it uses the principles of specialization and inheritance, which is in some
+                ways analogous to the naturalist Charles Darwin's concept of evolutionary
+                adaptation,</li>
+            <li>Information Typing: which means each topic has a defined primary objective
+                (procedure, glossary entry, troubleshooting information) and structure,</li>
+            <li>Architecture: DITA is an extensible set of structures.</li>
+        </ul>
+    </conbody>
+</concept>

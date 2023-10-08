@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="xml_object_model">
+    <title>XML Object Model</title>
+    <refbody>
+        <section id="section_bdg_f4p_vyb"><p>The following figure shows the XML object model for the
+                simple XML file.</p><image href="xml_object_model.png" id="image_fcy_g4p_vyb"
+            /></section>
+    </refbody>
+</reference>

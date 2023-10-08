@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dita_files_and_their_outputs">
+    <title>DITA Files and their Outputs</title>
+    <conbody>
+        <p>DITA Open Toolkit ships with several core transformations that convert DITA content to
+            different output formats.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_sxv_5vp_vyb">
+            <title>DITA Files and their Outputs</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>DITA File</entry>
+                        <entry>Output</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>PDF</entry>
+                        <entry>Portable Document Format.</entry>
+                    </row>
+                    <row>
+                        <entry>HTML5</entry>
+                        <entry> HTML5 and a table of contents (TOC) file.</entry>
+                    </row>
+                    <row>
+                        <entry>Eclipse Help</entry>
+                        <entry>XHTML output, CSS files, and the control files.</entry>
+                    </row>
+                    <row>
+                        <entry>HTML Help</entry>
+                        <entry>HTML output, CSS files, and the control files.</entry>
+                    </row>
+                    <row>
+                        <entry>DITA</entry>
+                        <entry>Normalized topics and maps..</entry>
+                    </row>
+                    <row>
+                        <entry>XHTML</entry>
+                        <entry>XHTML output and a table of contents (TOC) file.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="writing_in_dita">
+    <title>Writing in DITA</title>
+    <conbody>
+        <p>DITA map and topic documents are XML files. As with HTML, any images, video files, or
+            other files that must appear in the output are inserted via reference. Any XML editor or
+            even text editor can be used to write DITA content, depending on the level of support
+            required while authoring.</p>
+    </conbody>
+</concept>

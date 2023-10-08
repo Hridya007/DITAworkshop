@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="basic_terminology">
+    <title>Basic Terminology</title>
+    <refbody>
+        <section id="section_mqs_npp_vyb">
+            <p>The following terminology is used to discuss basic DITA concepts:<ol
+                    id="ul_bzr_p2y_wyb">
+                    <li>DITA document</li>
+                    <li>DITA document type</li>
+                    <li>DITA document-type shell</li>
+                    <li>DITA element</li>
+                    <li>DITA element type</li>
+                    <li>map instance</li>
+                    <li>map type</li>
+                    <li>structural type instance</li>
+                    <li>topic instance</li>
+                    <li>topic type</li>
+                </ol></p>
+        </section>
+    </refbody>
+</reference>
